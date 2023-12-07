@@ -37,7 +37,7 @@ public class VentanaRegistroArtista extends Ventana {
     }
 
     private void generarListaGenero(){
-        this.listaGeneros = super.generarListaDesplegable(generos,20,100,150,20);
+        this.listaGeneros = super.generarListaDesplegable(generos,175,100,150,20);
         this.add(this.listaGeneros);
     }
     private void generarBotonRegistro() {
@@ -59,7 +59,7 @@ public class VentanaRegistroArtista extends Ventana {
         this.botonSalir.addActionListener(this);
     }
 
-    private Artista registrarCliente(Genero genero){
+    private Artista registrarArtista(Genero genero){
         return new Artista(this.campoNombre.getText(), genero);
     }
 
@@ -72,7 +72,7 @@ public class VentanaRegistroArtista extends Ventana {
         if(e.getSource() == this.botonRegistro){
             if ((this.listaGeneros.getSelectedItem() != null)&&(!(this.campoNombre.getText().isEmpty()))) {
                 Genero seleccion = (Genero) listaGeneros.getSelectedItem();
-                registrarCliente(seleccion);
+                registrarArtista(seleccion);
                 JOptionPane.showMessageDialog(this,"Artista registrado correctamente");
                 VentanaInicio ventanaInicio = new VentanaInicio();
                 this.dispose();

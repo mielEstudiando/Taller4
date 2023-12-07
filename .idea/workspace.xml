@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f23c70d-b6f9-4c18-97ef-4c4cf629a4d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Diagrama.png" beforeDir="false" afterPath="$PROJECT_DIR$/Diagrama.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taller4.vpp" beforeDir="false" afterPath="$PROJECT_DIR$/taller4.vpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701977052823</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="más interfaces gráficas horribles qUE NO QUIEREN QUEDARME SIMÉTRICAS">
+      <option name="closed" value="true" />
+      <created>1701977911063</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701977911063</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
