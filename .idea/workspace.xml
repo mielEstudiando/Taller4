@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f23c70d-b6f9-4c18-97ef-4c4cf629a4d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/Ventana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaInicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaInicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diagrama.png" beforeDir="false" afterPath="$PROJECT_DIR$/Diagrama.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroEvento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller4.vpp" beforeDir="false" afterPath="$PROJECT_DIR$/taller4.vpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +43,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/miel/IdeaProjects/Taller4-2/src/main/java/ventanas"
+    "last_opened_file_path": "/home/miel/IdeaProjects/Taller4-2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/ventanas" />
       <recent name="$PROJECT_DIR$/src/main/java/Modelo" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,13 +101,22 @@
       <option name="project" value="LOCAL" />
       <updated>1701974521917</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="más interfaces gráficas horribles qUE NO QUIEREN QUEDARME SIMÉTRICAS">
+      <option name="closed" value="true" />
+      <created>1701977052823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701977052823</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README con nombre" />
     <MESSAGE value="mini readme con analisis problemática &#10;+ diagrama de clases (imagen) + archivo .vpp" />
     <MESSAGE value="creación clases básicas + inicio de&#10;creación de interfaz gráfica :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="creación clases básicas + inicio de&#10;creación de interfaz gráfica :D" />
+    <MESSAGE value="más interfaces gráficas horribles qUE NO QUIEREN QUEDARME SIMÉTRICAS" />
+    <option name="LAST_COMMIT_MESSAGE" value="más interfaces gráficas horribles qUE NO QUIEREN QUEDARME SIMÉTRICAS" />
   </component>
 </project>
