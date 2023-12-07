@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f23c70d-b6f9-4c18-97ef-4c4cf629a4d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datos/GuardarClases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datos/GuardarClases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Artista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Artista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701977911063</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="otro menu grafico">
+      <option name="closed" value="true" />
+      <created>1701978516567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701978516567</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +132,7 @@
     <MESSAGE value="mini readme con analisis problemática &#10;+ diagrama de clases (imagen) + archivo .vpp" />
     <MESSAGE value="creación clases básicas + inicio de&#10;creación de interfaz gráfica :D" />
     <MESSAGE value="más interfaces gráficas horribles qUE NO QUIEREN QUEDARME SIMÉTRICAS" />
-    <option name="LAST_COMMIT_MESSAGE" value="más interfaces gráficas horribles qUE NO QUIEREN QUEDARME SIMÉTRICAS" />
+    <MESSAGE value="otro menu grafico" />
+    <option name="LAST_COMMIT_MESSAGE" value="otro menu grafico" />
   </component>
 </project>

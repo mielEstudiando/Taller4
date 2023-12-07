@@ -27,4 +27,9 @@ public class Artista {
 	public void setGenero(Genero genero) {
 		this.genero = genero;
 	}
+
+	@Override
+	public String toString() {
+		return "Artista [nombre=" + nombre + ", genero=" + genero + "]";
+	}
 }
