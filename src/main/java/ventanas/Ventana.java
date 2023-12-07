@@ -9,7 +9,7 @@ public class Ventana extends JFrame implements ActionListener{
     private final Font fuenteTexto;
     protected Ventana(String nombre, int largoX, int largoY){
         super(nombre);
-        super.setVisible(true);
+        super.setVisible(false);
         super.setDefaultCloseOperation(0);
         super.setSize(largoX, largoY);
         super.setLocationRelativeTo(null);
@@ -18,6 +18,12 @@ public class Ventana extends JFrame implements ActionListener{
         this.fuenteTitulo = new Font("Calibri", 3, 20);
         this.fuenteTexto = new Font("Calibri", 1, 14);
 
+
+
+    }
+
+    public void mostrarVentana() {
+        super.setVisible(true);
     }
     protected void generarJLabelEncabezado(JLabel label, String texto, int posicionX, int posicionY, int largoX, int largoY){
         label= new JLabel(texto);

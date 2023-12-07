@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f23c70d-b6f9-4c18-97ef-4c4cf629a4d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Artista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Asistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/EventoMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Genero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaInicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroEvento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/readme.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ventanas/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/Ventana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/Ventana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaInicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaInicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroArtista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroAsistente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ventanas/VentanaRegistroEvento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,12 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701972400471</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creación clases básicas + inicio de&#10;creación de interfaz gráfica :D">
+      <option name="closed" value="true" />
+      <created>1701974521917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701974521917</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README con nombre" />
     <MESSAGE value="mini readme con analisis problemática &#10;+ diagrama de clases (imagen) + archivo .vpp" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini readme con analisis problemática &#10;+ diagrama de clases (imagen) + archivo .vpp" />
+    <MESSAGE value="creación clases básicas + inicio de&#10;creación de interfaz gráfica :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="creación clases básicas + inicio de&#10;creación de interfaz gráfica :D" />
   </component>
 </project>
